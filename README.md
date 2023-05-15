@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+    ### Hi there 👋
+</div>
+
 
 <!--
 **alejolac/alejolac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
