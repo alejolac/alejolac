@@ -43,7 +43,7 @@
   
   ![alejolac GitHub stats](https://github-readme-stats.vercel.app/api?username=alejolac&show_icons=true&theme=great-gatsby)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejolaca&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejolac&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
