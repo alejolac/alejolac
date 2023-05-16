@@ -1,7 +1,7 @@
 <div id="header" align="center" >
     <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
     <h1>Hi 👋, I'm Alejo Lacroix</h1>
-    <p>I'm a Web developer based in Montevideo, Uruguay. I enjoy learning a new thing every day and being better than yesterday as a developer and as a person.</p>
+    <p>I'm a Web developer based in Montevideo, Uruguay. I enjoy learning a new thing every day and being </br> better than yesterday as a developer and as a person.</p>
 </div>
 <hr>
 
